@@ -39,3 +39,4 @@ void Ship::draw()
 {
     surface_.put_image(image_, myrect); // blit image at rect on surface   
 }
+
